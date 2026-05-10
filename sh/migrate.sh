@@ -1,0 +1,1 @@
+python /Users/mac/Desktop/own/lufyy_api/manage.py migrate
